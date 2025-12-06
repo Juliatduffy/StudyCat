@@ -1,6 +1,6 @@
-# StudyCat 
+# Study cat
 
-Hi there! StudyCat is an interactive website designed to be played on a second monitor while you are studying to keep you focused.
+This is an interactive website designed to be played on a second monitor while you are studying to keep you focused.
 
 Hosted on GitHub pages at this link: [https://juliatduffy.github.io/StudyCat-Website/](https://juliatduffy.github.io/study-cat/)
 
